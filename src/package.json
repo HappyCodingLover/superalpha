@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "nodemon server.js",
-    "build": "next build && next start -p $PORT",
+    "build": "next build && yarn dev",
     "start": "NODE_ENV=production node server.js"
   },
   "dependencies": {
@@ -25,8 +25,7 @@
     "nodemon": "^2.0.9",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "reactstrap": "^7.1.0",
-    "web3": "^1.4.0"
+    "reactstrap": "^7.1.0"
   },
   "devDependencies": {}
 }
