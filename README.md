@@ -1,9 +1,5 @@
-# Email Login System Starter
+# ERC20 Tokens and Wallets Tracker
 
-## Tutorial
-[https://tejisav.github.io/2019/03/26/project-b-tutorial.html](https://tejisav.github.io/2019/03/26/project-b-tutorial.html)
-
-You can follow this tutorial if you want to know in detail about this project.
 
 ## Configuration
 
@@ -16,8 +12,8 @@ You can follow this tutorial if you want to know in detail about this project.
 ## Running locally in development mode
 
 ```
-git clone https://github.com/tejisav/nextjs-express-mysql-starter.git
-cd nextjs-express-mysql-starter/src
+git clone https://github.com/HappyCodingLover/superalpha.git
+cd src
 npm install
 npm run dev
 ```
@@ -25,8 +21,8 @@ npm run dev
 ## Building and deploying in production
 
 ```
-git clone https://github.com/tejisav/nextjs-express-mysql-starter.git
-cd nextjs-express-mysql-starter/src
+git clone https://github.com/HappyCodingLover/superalpha.git
+cd src
 npm install
 npm run build
 npm start
